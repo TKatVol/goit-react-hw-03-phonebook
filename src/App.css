@@ -1,0 +1,17 @@
+.App {
+  width: 320px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.179;
+  color: #000033;
+}
+
+.titleIcon {
+  margin-left: 40px;
+  vertical-align: middle;
+}
